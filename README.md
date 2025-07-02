@@ -1,7 +1,7 @@
 
 # TechEazy DevOps Assignment (Fully Automated)
 
-✅ One Command: **Run only**
+One Command: **Run only**
 
 \`\`\`
 terraform apply -auto-approve
@@ -49,4 +49,4 @@ to remove all resources and avoid AWS charges.
 
 ---
 
-🚀 Good luck with your TechEazy submission!
+
