@@ -1,0 +1,26 @@
+{
+    "info": {
+        "name": "TechEazy Sample Collection",
+        "_postman_id": "a1b2c3d4-e5f6-7890-abcd-ef0123456789",
+        "description": "Sample placeholder Postman collection for TechEazy submission. This project uses Terraform and does not require API testing, but this collection is included per instructions.",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Sample GET Request",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "https://example.com",
+                    "protocol": "https",
+                    "host": [
+                        "example",
+                        "com"
+                    ]
+                }
+            },
+            "response": []
+        }
+    ]
+}
