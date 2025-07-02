@@ -1,6 +1,5 @@
 
-# TechEazy DevOps Assignment (Fully Automated)
-
+# TechEazy DevOps Internship - Automated Terraform Submission
 One Command: **Run only**
 
 \`\`\`
@@ -10,6 +9,9 @@ terraform apply -auto-approve
 and everything will be automated, requiring no manual steps.
 
 ---
+## Note:
+- This repo is fully automated and requires only `terraform apply -auto-approve` for complete testing.
+- No manual steps or Postman collections are needed.
 
 ## What this does:
 ✅ Creates IAM Roles (read-only, write-only)  
@@ -42,7 +44,7 @@ terraform destroy -auto-approve
 to remove all resources and avoid AWS charges.
 
 ---
-
+## Submitted by: Prerna Upadhyaya
 ## Notes:
 ✅ No hardcoded AWS secrets in the repo  
 ✅ Fully automatic: run, wait, and check \`verification_log.txt\` for uploaded logs confirmation
